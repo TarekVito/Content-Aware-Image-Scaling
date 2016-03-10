@@ -1,0 +1,30 @@
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe.config
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).pdb
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Properties.Resources.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.SeamCarving.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Viewer.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csproj.GenerateResource.Cache
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).exe
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving)\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).pdb
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe.config
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).exe
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).pdb
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).pdb
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Properties.Resources.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.SeamCarving.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Viewer.resources
+C:\Users\Tarek\Documents\Visual Studio 2012\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csproj.GenerateResource.Cache
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe.config
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).exe
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).pdb
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).exe
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\bin\Release\Content-Aware Image Scaling(Seam Carving).pdb
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csprojResolveAssemblyReference.cache
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Properties.Resources.resources
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.SeamCarving.resources
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content_Aware_Image_Scaling_Seam_Carving_.Viewer.resources
+D:\CIS\Projects\Content-Aware Image Scaling(Seam Carving) - Copy\Content-Aware Image Scaling(Seam Carving)\obj\Release\Content-Aware Image Scaling(Seam Carving).csproj.GenerateResource.Cache
